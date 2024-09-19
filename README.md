@@ -20,7 +20,7 @@ Please note that this version may not be perfect, as it was my first attempt at 
 
 ## Screenshots
 
-![
+![An old screenshot I recovered](https://github.com/nuhgooyin/Pong-Game/blob/main/Screenshot%20(21).png)
 
 ## ⚠️ Important Update
 
